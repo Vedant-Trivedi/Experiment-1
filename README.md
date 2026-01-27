@@ -2,8 +2,11 @@
 ## LAB REPORT: INTRODUCTION TO PYTHON
 
 Student Name: Vedant Trivedi
+
 PRN: 25070123121
+
 Experiment No: 1
+
 Date: January 27, 2026
 
 --------------------------------------------------------------------------------
